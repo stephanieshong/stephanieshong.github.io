@@ -1,6 +1,6 @@
 # stephanieshong.github.io
 Stephanie S Hong
-Email: shong59@jh.edu
+Email: shong59@jh.edu, schoi@alum.mit.edu
 
 Stephanie Hong, MS, FAMIA
 Stephanie Hong serves as the Director of Translational Informatics Applications at the General Internal Medicine and Biomedical Informatics and Data Science Section of Johns Hopkins University School of Medicine.
