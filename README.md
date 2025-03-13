@@ -14,3 +14,5 @@ Currently, Stephanie focuses on integrating multi-modal patient data using Priva
 She is also deeply invested in the growing adoption of FHIR (Fast Healthcare Interoperability Resources) in biomedical informatics and healthcare IT. Stephanie recognizes that understanding and utilizing FHIR is critical for the field’s future, emphasizing the need for collaboration among healthcare providers, IT developers, regulators, and standards organizations to address the challenges of this transformative evolution.
 
 Stephanie is honored and excited to serve as a Teaching Assistant (TA) for JHU SOM BIDS FHIR (ME.250.778.0000.SP25) course. Her multidisciplinary expertise and hands-on experience with cutting-edge informatics projects highlight her dedication to advancing the field and supporting students in their learning journey.
+
+<a href="cv.pdf" target="_blank">View my CV</a>
