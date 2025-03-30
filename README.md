@@ -5,7 +5,7 @@ Email: shong59@jh.edu, schoi@alum.mit.edu
 Stephanie Hong, MS, FAMIA
 Stephanie Hong serves as the Director of Translational Informatics Applications at the General Internal Medicine and Biomedical Informatics and Data Science Section of Johns Hopkins University School of Medicine.
 
-She earned her BS in Electrical Engineering from the Massachusetts Institute of Technology (MIT) and recently completed her MS in Applied Health Sciences Informatics at Johns Hopkins School of Medicine.
+She earned her SB in Electrical Engineering from the Massachusetts Institute of Technology (MIT) and recently completed her MS in Applied Health Sciences Informatics at Johns Hopkins School of Medicine.
 
 Stephanie was a pivotal member of the National COVID Cohort Collaborative (N3C) Data Ingestions and Harmonization team. Her work with N3C, the largest centralized repository of COVID-related patient Electronic Health Record (EHR) data in the United States, has provided researchers with access to harmonized COVID-19 data in the OMOP Common Data Model (CDM) format. In recognition of her contributions to biomedical informatics, she was named a Fellow of the American Medical Informatics Association (FAMIA) in 2022.
 
