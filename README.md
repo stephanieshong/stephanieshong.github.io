@@ -15,6 +15,5 @@ Ms. Hong also serves as the Johns Hopkins technical lead for the All of Us Resea
 
 Within the AI-READI and BioData Catalyst programs, Ms. Hong leads semantic harmonization and metadata standardization efforts that support interoperability across clinical, survey, imaging, wearable, and research datasets. Her current work includes development of AI-assisted semantic curation tools, ontology mapping frameworks, and LinkML-based harmonization methodologies designed to improve the scalability and consistency of data integration across research communities.
 
-In addition to her research activities, Ms. Hong serves as a Teaching Assistant for the Johns Hopkins School of Medicine Biomedical Informatics and Data Science FHIR course and is an active contributor to national standards and interoperability initiatives. Her work continues to advance FAIR data principles, interoperable research ecosystems, and the development of AI-ready biomedical data resources.
-
+In addition to her research activities, Ms. Hong previously served as a Teaching Assistant for the Johns Hopkins School of Medicine Biomedical Informatics and Data Science FHIR course, where she supported instruction on HL7 FHIR standards and healthcare interoperability.
 <a href="cv.pdf" target="_blank">View my CV</a>
