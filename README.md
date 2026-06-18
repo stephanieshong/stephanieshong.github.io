@@ -1,18 +1,20 @@
 # stephanieshong.github.io
-Stephanie S Hong
-Email: shong59@jh.edu, schoi@alum.mit.edu
 
-Stephanie Hong, MS, FAMIA
-Stephanie Hong is a faculty member in the Department of Medicine at the Johns Hopkins University School of Medicine, where she serves as the Director of Translational Informatics Applications in the General Internal Medicine and Biomedical Informatics and Data Science Section.
+**Stephanie S. Hong, MS, FAMIA**
+Email: [shong59@jh.edu](mailto:shong59@jh.edu) | [schoi@alum.mit.edu](mailto:schoi@alum.mit.edu)
 
-She earned her SB in Electrical Engineering from the Massachusetts Institute of Technology (MIT) and recently completed her MS in Applied Health Sciences Informatics at Johns Hopkins School of Medicine.
+Stephanie S. Hong, MS, FAMIA, is Director of Translational Informatics Applications in the Division of General Internal Medicine and the Biomedical Informatics and Data Science Section at the Johns Hopkins University School of Medicine. She specializes in clinical data standards, healthcare interoperability, semantic harmonization, metadata management, and large-scale biomedical data integration.
 
-Stephanie was a pivotal member of the National COVID Cohort Collaborative (N3C) Data Ingestions and Harmonization team. Her work with N3C, the largest centralized repository of COVID-related patient Electronic Health Record (EHR) data in the United States, has provided researchers with access to harmonized COVID-19 data in the OMOP Common Data Model (CDM) format. In recognition of her contributions to biomedical informatics, she was named a Fellow of the American Medical Informatics Association (FAMIA) in 2022.
+Ms. Hong earned her SB in Electrical Engineering from the Massachusetts Institute of Technology (MIT) and her MS in Applied Health Sciences Informatics from the Johns Hopkins University School of Medicine. In recognition of her contributions to biomedical informatics, she was elected a Fellow of the American Medical Informatics Association (FAMIA) in 2022.
 
-Currently, Stephanie focuses on integrating multi-modal patient data using Privacy Preserving Record Linkage (PPRL) technology. Her work involves creating a comprehensive view of the patient healthcare journey by linking data from EHRs, claims, medical images, voice recordings, patient survey data and health monitoring devices.
+Ms. Hong has played leadership roles in several national NIH-funded initiatives, including the National COVID Cohort Collaborative (N3C), the NIH Bridge2AI AI-READI program, the All of Us Research Program Center for Linkage and Acquisition of Data (CLAD), and NHLBI BioData Catalyst. Her work focuses on developing standards-based approaches for integrating and harmonizing electronic health records, claims data, clinical research data, surveys, imaging, and other multimodal biomedical data sources using frameworks such as the OMOP Common Data Model, HL7 FHIR, LinkML, SNOMED CT, LOINC, and RxNorm.
 
-Building on her extensive experience in data integration, Stephanie is also actively leading efforts to advance the adoption of FHIR (Fast Healthcare Interoperability Resources) in biomedical informatics and healthcare IT. As a dedicated advocate for FHIR’s transformative potential, she is driving initiatives to harness its power in shaping the future of healthcare. Recognizing that successful adoption requires collaboration, Stephanie is actively forging strategic partnerships with healthcare providers, IT developers, regulators, and standards organizations to overcome challenges and maximize FHIR’s impact. Her proactive leadership reflects a forward-thinking commitment to enhancing healthcare interoperability and driving innovation in the field.
+As Lead Programmer for the N3C Data Ingestion and Harmonization Workstream, Ms. Hong designed data ingestion pipelines and terminology transformation frameworks that enabled the harmonization of data from more than 80 healthcare organizations into a common semantic framework supporting over 23 million patients and 36 billion clinical records. Her work established reusable methodologies for large-scale data harmonization, terminology standardization, and real-world evidence generation.
 
-In addition to her technical work, Stephanie has serve as a Teaching Assistant (TA) for the JHU SOM BIDS FHIR (ME.250.778.0000.SP25, ME.250.778.0000.SP24) course. Her multidisciplinary expertise and hands-on experience with cutting-edge informatics projects highlight her dedication to advancing the field and supporting students in their learning journey.
+Ms. Hong also serves as the Johns Hopkins technical lead for the All of Us Research Program Center for Linkage and Acquisition of Data (CLAD), where she architected a scalable framework for transforming HL7 FHIR, CCDA, and claims-based data into the OMOP Common Data Model. Her work includes terminology mapping, provenance tracking, data quality assessment, and standards-based interoperability solutions that support research-ready data resources.
+
+Within the AI-READI and BioData Catalyst programs, Ms. Hong leads semantic harmonization and metadata standardization efforts that support interoperability across clinical, survey, imaging, wearable, and research datasets. Her current work includes development of AI-assisted semantic curation tools, ontology mapping frameworks, and LinkML-based harmonization methodologies designed to improve the scalability and consistency of data integration across research communities.
+
+In addition to her research activities, Ms. Hong serves as a Teaching Assistant for the Johns Hopkins School of Medicine Biomedical Informatics and Data Science FHIR course and is an active contributor to national standards and interoperability initiatives. Her work continues to advance FAIR data principles, interoperable research ecosystems, and the development of AI-ready biomedical data resources.
 
 <a href="cv.pdf" target="_blank">View my CV</a>
